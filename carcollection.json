@@ -1,47 +1,47 @@
 {
   "Company": "Kyle Collection Inc",
   "Owner": "Kyle Beaumont",
-  "year": 2022,
+  "years": 2001,
   "active": true,
   "collection": [
     {
       "brand": "Toyota",
-      "yearfound": 1906,
-      "founder": "Alfred Nehemias",
-      "models": [
-        "Meisterstück 149 Gold-Coated",
+      "year": 1906,
+      "model": "Corolla",
+      "color": [
+        "Bla",
         "Meisterstück Geometry Solitaire Signature",
         "Meisterstück 146"
       ]
     },
     {
-      "brand": "Pelikan",
-      "yearfound": 1838,
-      "founder": "Carl Hornemann",
-      "models": [
-        "M800",
-        "M805 Demenstrator",
-        "M1000"
+      "brand": "Toyota",
+      "year": 1906,
+      "model": "Corolla",
+      "color": [
+        "Bla",
+        "Meisterstück Geometry Solitaire Signature",
+        "Meisterstück 146"
       ]
     },
     {
-      "brand": "Nakaya",
-      "yearfound": 1919,
-      "founder": "Nakata Toshiya",
-      "models": [
-        "Piccolo Writer Kikyo",
-        "Dorsal Fin",
-        "Portable"
+      "brand": "Toyota",
+      "year": 1906,
+      "model": "Corolla",
+      "color": [
+        "Bla",
+        "Meisterstück Geometry Solitaire Signature",
+        "Meisterstück 146"
       ]
     },
     {
-      "brand": "Nakaya",
-      "yearfound": 1919,
-      "founder": "Nakata Toshiya",
-      "models": [
-        "Piccolo Writer Kikyo",
-        "Dorsal Fin",
-        "Portable"
+      "brand": "Toyota",
+      "year": 1906,
+      "model": "Corolla",
+      "color": [
+        "Bla",
+        "Meisterstück Geometry Solitaire Signature",
+        "Meisterstück 146"
       ]
     }
   ]
