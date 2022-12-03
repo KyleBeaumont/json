@@ -7,7 +7,7 @@
     {
       "brand": "Toyota",
       "image": "images/download.jpg",
-      "year": 2004,
+      "price": 2004,
       "model": "Corolla",
       "color": [
         "Black",
@@ -18,7 +18,7 @@
     {
       "brand": "Toyota",
       "image": "images/download.jpg",
-      "year": 2004,
+      "price": 2004,
       "model": "Corolla",
       "color": [
         "Black",
@@ -29,7 +29,7 @@
     {
       "brand": "Toyota",
       "image": "images/download.jpg",
-      "year": 2004,
+      "price": 2004,
       "model": "Corolla",
       "color": [
         "Black",
@@ -40,7 +40,7 @@
     {
       "brand": "Toyota",
       "image": "images/download.jpg",
-      "year": 2004,
+      "price": 2004,
       "model": "Corolla",
       "color": [
         "Black",
