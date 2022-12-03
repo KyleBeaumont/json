@@ -6,7 +6,7 @@
   "ownedcars": [
     {
       "brand": "Toyota",
-      "image": "download.jpg",
+      "image": "images/download.jpg",
       "year": 2004,
       "model": "Corolla",
       "color": [
@@ -17,7 +17,7 @@
     },
     {
       "brand": "Toyota",
-      "image": "download.jpg",
+      "image": "images/download.jpg",
       "year": 2004,
       "model": "Corolla",
       "color": [
@@ -28,7 +28,7 @@
     },
     {
       "brand": "Toyota",
-      "image": "download.jpg",
+      "image": "images/download.jpg",
       "year": 2004,
       "model": "Corolla",
       "color": [
@@ -39,7 +39,7 @@
     },
     {
       "brand": "Toyota",
-      "image": "download.jpg",
+      "image": "images/download.jpg",
       "year": 2004,
       "model": "Corolla",
       "color": [
