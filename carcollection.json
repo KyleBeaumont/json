@@ -16,10 +16,10 @@
       ]
     },
     {
-      "brand": "Toyota",
+      "brand": "Ford",
       "image": "images/download.jpg",
-      "price": 2004,
-      "model": "Corolla",
+      "price": 1600,
+      "model": "Focus",
       "color": [
         "Black",
         "Red",
@@ -27,10 +27,10 @@
       ]
     },
     {
-      "brand": "Toyota",
+      "brand": "Dodge",
       "image": "images/download.jpg",
-      "price": 2004,
-      "model": "Corolla",
+      "price": 1004,
+      "model": "Caravan",
       "color": [
         "Black",
         "Red",
@@ -38,10 +38,10 @@
       ]
     },
     {
-      "brand": "Toyota",
+      "brand": "Fisher Price",
       "image": "images/download.jpg",
-      "price": 2004,
-      "model": "Corolla",
+      "price": 50,
+      "model": "Tricycle",
       "color": [
         "Black",
         "Red",
