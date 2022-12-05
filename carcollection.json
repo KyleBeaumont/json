@@ -17,7 +17,7 @@
     },
     {
       "brand": "Ford",
-      "image": "images/download.jpg",
+      "image": "images/focus.jpg",
       "price": 1600,
       "model": "Focus",
       "color": [
@@ -28,7 +28,7 @@
     },
     {
       "brand": "Dodge",
-      "image": "images/download.jpg",
+      "image": "images/dodge.jpg",
       "price": 1004,
       "model": "Caravan",
       "color": [
@@ -39,7 +39,7 @@
     },
     {
       "brand": "Fisher Price",
-      "image": "images/download.jpg",
+      "image": "images/coolride.jpg",
       "price": 50,
       "model": "Tricycle",
       "color": [
